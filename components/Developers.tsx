@@ -11,7 +11,7 @@ const developers = [
   { 
     name: 'Jacky', 
     school: 'Western University',
-    role: 'Frontend Developer',
+    role: 'Backend Developer',
     image: '/assets/images/avatars/jacky.png',
     github: 'https://github.com/JackyLiu13',
     linkedin: 'https://www.linkedin.com/in/jacky-liu13/'
@@ -27,7 +27,7 @@ const developers = [
   { 
     name: 'Owen', 
     school: 'McMaster University',
-    role: 'Backend Developer',
+    role: 'Full Stack Developer',
     image: '/assets/images/avatars/owen.png',
     github: 'https://github.com/owengretzinger',
     linkedin: 'https://www.linkedin.com/in/owengretzinger/'
@@ -35,7 +35,7 @@ const developers = [
   { 
     name: 'Amanda', 
     school: "Queen's University",
-    role: 'UI/UX Designer',
+    role: 'Frontend Developer & UI/UX Designer',
     image: '/assets/images/avatars/amanda.png',
     github: 'https://github.com/jamsnhoney',
     linkedin: 'https://www.linkedin.com/in/amanda-zhu-b01422242/'
