@@ -5,7 +5,9 @@ import Header from '../components/Header'
 import Footer from '../components/Footer'
 import ParallaxBackground from '../components/ParallaxBackground'
 import BackToTop from '../components/BackToTop'
-import Developers from '../components/Developers'; // Import Developers component
+import Developers from '../components/Developers'
+import VideoSection from '../components/VideoSection'
+import DownloadSection from '../components/DownloadSection'
 
 export default function Home() {
   return (
@@ -15,6 +17,8 @@ export default function Home() {
       <main>
         <Hero />
         <Features />
+        <VideoSection />
+        <DownloadSection />
         <Developers />
         <FriendInteractions />
       </main>

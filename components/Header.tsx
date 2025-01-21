@@ -21,8 +21,9 @@ export default function Header() {
         <nav>
           <ul className="flex space-x-6">
             <li><Link href="#features" className="hover:text-[#a16207] transition-colors">Features</Link></li>
-            <li><Link href="#friend-interactions" className="hover:text-[#a16207] transition-colors">Friend Interactions</Link></li>
-            <li><Link href="#" className="hover:text-[#a16207] transition-colors">Download</Link></li>
+            <li><Link href="#team" className="hover:text-[#a16207] transition-colors">Team</Link></li>
+            <li><Link href="#friend-interactions" className="hover:text-[#a16207] transition-colors">Friends</Link></li>
+            <li><Link href="#download" className="hover:text-[#a16207] transition-colors">Download</Link></li>
           </ul>
         </nav>
       </div>
